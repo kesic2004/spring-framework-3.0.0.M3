@@ -1,0 +1,11 @@
+#Fri Apr 09 20:58:59 GMT-05:00 2021
+problem_tasks=ignore
+problem_properties=ignore
+useQuickDiffPrefPage=true
+useAnnotationsPrefPage=true
+formatter_tab_char=false
+problem_classpath=warning
+problem_imports=warning
+problem_security=warning
+org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+eclipse.preferences.version=1

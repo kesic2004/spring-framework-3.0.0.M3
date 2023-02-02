@@ -1,0 +1,5 @@
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>com.springsource.freemarker</artifactId>
+            <version>2.3.15</version>
+        </dependency>

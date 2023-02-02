@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+F:\spring-framework-3.0.x\spring-framework-3.0.0.M3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+437132838.index
+1257778937.index
+831007409.index
+701721152.index
+451079029.index

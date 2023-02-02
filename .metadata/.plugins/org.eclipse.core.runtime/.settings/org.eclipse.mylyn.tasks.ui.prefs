@@ -1,0 +1,4 @@
+#Fri Apr 09 20:58:55 GMT-05:00 2021
+org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+eclipse.preferences.version=1
+org.eclipse.mylyn.tasks.ui.filters.nonmatching=true

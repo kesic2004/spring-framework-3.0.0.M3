@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+F:\spring-framework-3.0.x\spring-framework-3.0.0.M3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2424154039.index
+\spring-samples-petclinic\src\main\java
+F:\spring-framework-3.0.x\spring-framework-3.0.0.M3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3280888917.index
+\spring-samples-petclinic\src\main\java
+F:\spring-framework-3.0.x\spring-framework-3.0.0.M3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3613456966.index
+\spring-samples-petclinic\src\main\java

@@ -1,0 +1,6 @@
+#Fri Apr 09 20:58:59 GMT-05:00 2021
+jpqlQueryEditorNumberOfLines=5
+jpqlIdentifier.CASE=lowercase
+jpqlIdentifier.MATCH_FIRST_CHARACTER_CASE=true
+eclipse.preferences.version=1
+entitygen.DEFAULT_PACKAGE=model

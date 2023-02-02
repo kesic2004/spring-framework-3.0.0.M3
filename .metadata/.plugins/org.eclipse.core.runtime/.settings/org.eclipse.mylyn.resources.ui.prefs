@@ -1,0 +1,4 @@
+#Fri Apr 09 20:59:00 GMT-05:00 2021
+eclipse.preferences.version=1
+org.eclipse.mylyn.ide.resources.ignored.pattern.ant=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<resourceExclusions>\r\n<exclusion antPattern\="**/.*/**"/>\r\n<exclusion antPattern\="target/**"/>\r\n<exclusion antPattern\="**/.*"/>\r\n<exclusion antPattern\=".*/**"/>\r\n<exclusion antPattern\=".*"/>\r\n</resourceExclusions>
+org.eclipse.mylyn.ide.resources.ignore.pattern.version=1.0
